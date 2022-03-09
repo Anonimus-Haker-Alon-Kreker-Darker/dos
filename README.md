@@ -4,3 +4,4 @@ DOS napad pokušava preopteretiti mrežnu uslugu (web mjesto) s prometom. Cilj j
 Napad DOS obično se pokreće iz jednog stroja, za razliku od DDOS napada koji je pokrenut iz više strojeva.
 Dos i DDoS salju pakete na server, kroz port i ip adresu.
 Pakete nazivamo: botovima/botnet, zombijima.
+DDoS skracenica od (deni denial of service), u prevodu: "uskraćivanje uskraćivanja usluge ".
